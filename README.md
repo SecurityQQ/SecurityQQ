@@ -13,7 +13,7 @@ ex-Yandex ML researcher · MIPT · YSDA · San Francisco
 
 ## Before
 
-- **VeyraX** (co-founder, 2025): embedded AI components with live tool data rendered as interactive UI inside the agent, 80+ integrations, a 3,000-server MCP marketplace. Shipped 18 months before OpenAI and Anthropic shipped the same
+- **[VeyraX](https://github.com/VeyraX/veyrax-platform)** (co-founder, 2025): embedded AI components with live tool data rendered as interactive UI inside the agent, 80+ integrations, a 3,000-server MCP marketplace. Shipped 18 months before OpenAI and Anthropic shipped the same
 - **BulkImageGeneration.com**: bootstrapped AI image agent for small businesses, profitable from the first month
 - **Yandex Ads**: invented an ads recommender system, +1–2% ads revenue ($6–12M)
 - **RH**: 50+ hackathons with 45K+ participants, incl. [Hack.Moscow](https://hack.moscow)
