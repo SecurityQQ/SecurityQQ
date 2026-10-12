@@ -1,7 +1,7 @@
 # Alex Varga
 
 Co-founder & CTO of [varg.ai](https://varg.ai): one API over 100+ image, video and voice models, built for AI agents.
-ex-Yandex ML researcher · MIPT · YSDA · San Francisco
+In machine learning since 2016 · ex-Yandex ML researcher · MIPT · YSDA · San Francisco
 
 [alexvarga.xyz](https://alexvarga.xyz) · [X](https://x.com/vargastartup) · [CV](https://alexvarga.xyz/alex-varga-cv.pdf)
 
