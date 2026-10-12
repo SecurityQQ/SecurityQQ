@@ -16,13 +16,15 @@ Building the future of AI video infrastructure at [varg.ai](https://varg.ai) (@v
 
 ## 🧬 Background
 
+- ⚡ Co-founded **VeyraX** — embedded AI components, 80+ tool integrations and a 3,000-server MCP marketplace, 18 months before OpenAI/Anthropic shipped the same
+- 🚀 **Entrepreneurs First** (Paris, 2025) — selected founder
 - 🧠 **Computer Vision since 2018**
-- 📊 Built **Yandex Ads RecSys** → BSc in math & ML → **+$12M/year revenue impact**
+- 📊 Built **Yandex Ads RecSys** → BSc in math & ML → **$6–12M revenue impact**
 - 🏆 Won **9 national olympiads** in math, physics, and informatics
 - 🥇 **International Math Tournament of Towns (IMTT)** winner
 - 🎓 **MIPT** (Moscow Institute of Physics and Technology) — studied with 3 IMO winners
 - 📚 **Yandex Data School** graduate
-- 🎤 Organized **50+ hackathons** including hack.moscow
+- 🎤 Organized **50+ hackathons** including [hack.moscow](https://hack.moscow)
 
 ---
 
@@ -58,7 +60,7 @@ Building the future of AI video infrastructure at [varg.ai](https://varg.ai) (@v
 ## 📬 Connect
 
 🐦 [Twitter/X](https://x.com/vargastartup)  
-🌐 [alexvarg.xyz](https://alexvarg.xyz)  
+🌐 [alexvarga.xyz](https://alexvarga.xyz)  
 🚀 [varg.ai](https://varg.ai)
 
 ---
