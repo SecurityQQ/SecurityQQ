@@ -1,68 +1,29 @@
-# Hi, I'm Alex 👋
+# Alex Varga
 
-**AI researcher & tech founder based in San Francisco**  
-Building the future of AI video infrastructure at [varg.ai](https://varg.ai) (@vargHQ)
+Co-founder & CTO of [varg.ai](https://varg.ai): one API over 100+ image, video and voice models, built for AI agents.
+ex-Yandex ML researcher · MIPT · YSDA · San Francisco
 
----
+[alexvarga.xyz](https://alexvarga.xyz) · [X](https://x.com/vargastartup) · [CV](https://alexvarga.xyz/alex-varga-cv.pdf)
 
-## 🎯 What I'm Building
+## Building now
 
-**varg.ai** — AI video infrastructure for high-volume teams. We orchestrate multiple AI models to generate thousands of consistent videos and images at scale.
+- **[vargHQ/sdk](https://github.com/vargHQ/sdk)**: AI video generation SDK, JSX for videos. One API for Kling, Flux, ElevenLabs and more
+- **[vargHQ/skills](https://github.com/vargHQ/skills)**: agent skills for video, image, speech and music generation (Claude Code, Cursor, etc.)
+- Built a custom AI fitness-coach video pipeline for Simple ($160M ARR); the app they launched on it outperformed their main app
 
-**Core Stack:** TypeScript, Python  
-**Previously:** C++, Swift
+## Before
 
----
+- **VeyraX** (co-founder, 2025): embedded AI components with live tool data rendered as interactive UI inside the agent, 80+ integrations, a 3,000-server MCP marketplace. Shipped 18 months before OpenAI and Anthropic shipped the same
+- **BulkImageGeneration.com**: bootstrapped AI image agent for small businesses, profitable from the first month
+- **Yandex Ads**: invented an ads recommender system, +1–2% ads revenue ($6–12M)
+- **RH**: 50+ hackathons with 45K+ participants, incl. [Hack.Moscow](https://hack.moscow)
+- **Newton.so** (HF0): founding engineer, 50K users
+- **Entrepreneurs First** Paris 2025
 
-## 🧬 Background
+## Stack
 
-- ⚡ Co-founded **VeyraX** — embedded AI components, 80+ tool integrations and a 3,000-server MCP marketplace, 18 months before OpenAI/Anthropic shipped the same
-- 🚀 **Entrepreneurs First** (Paris, 2025) — selected founder
-- 🧠 **Computer Vision since 2018**
-- 📊 Built **Yandex Ads RecSys** → BSc in math & ML → **$6–12M revenue impact**
-- 🏆 Won **9 national olympiads** in math, physics, and informatics
-- 🥇 **International Math Tournament of Towns (IMTT)** winner
-- 🎓 **MIPT** (Moscow Institute of Physics and Technology) — studied with 3 IMO winners
-- 📚 **Yandex Data School** graduate
-- 🎤 Organized **50+ hackathons** including [hack.moscow](https://hack.moscow)
+TypeScript, Python · AI agents, MCP, evals, generative image & video, durable execution
 
 ---
 
-## 🌍 Journey
-
-🇷🇺 Grew up in Russia  
-🇩🇪 Moved to Germany (2018)  
-🇭🇺 Learning Hungarian since 2022 *(top-5 hardest language in the world, why not)*  
-🇺🇸 Now in San Francisco, building varg.ai
-
----
-
-## 🔬 What Drives Me
-
-**Long-term mission:** Build something genuinely useful for humanity.
-
-**Current obsessions:**
-- AI orchestration & video infrastructure
-- Math & creative problem-solving
-- Radical life extension (support [Caltech Longevity Club](https://longevity.caltech.edu/))
-
----
-
-## 🧘 Outside of Work
-
-- 🔥 **Sauna enthusiast** — Archimedes & Alchemy Springs regular
-- 📸 **Photography**
-- 🧬 **Longevity research**
-- 🎉 Hosting food parties & organizing hackathons
-
----
-
-## 📬 Connect
-
-🐦 [Twitter/X](https://x.com/vargastartup)  
-🌐 [alexvarga.xyz](https://alexvarga.xyz)  
-🚀 [varg.ai](https://varg.ai)
-
----
-
-*From Math Olympiads to AI infrastructure — building tools that scale creativity.*
+<sub>9 national olympiad wins in math, physics and informatics · IMTT winner · MLH Top 50 Hackers 2020 · sauna, tennis, tasting dinners</sub>
