@@ -9,6 +9,7 @@ In machine learning since 2016 · ex-Yandex ML researcher · MIPT · YSDA · San
 
 - **[vargHQ/sdk](https://github.com/vargHQ/sdk)**: AI video generation SDK, JSX for videos. One API for Kling, Flux, ElevenLabs and more
 - **[vargHQ/skills](https://github.com/vargHQ/skills)**: agent skills for video, image, speech and music generation (Claude Code, Cursor, etc.)
+- **[ai-parody-video-claude-code](https://github.com/SecurityQQ/ai-parody-video-claude-code)**: a worked example of an AI agent making a 41-second parody film end to end with varg skills, in 10 steps for $2.12 ([project page](https://securityqq.github.io/ai-parody-video-claude-code/))
 - Built a custom AI fitness-coach video pipeline for Simple ($160M ARR); the app they launched on it outperformed their main app
 
 ## Before
